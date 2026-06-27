@@ -328,7 +328,7 @@ pip install -r requirements.txt
 
 Built for: HR Analyst · Data Analyst · BI Analyst · People Analytics · Reporting Analyst · Remote Analytics roles
 
-📧 suryaprakash1892@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/surya-prakash-data-analyst) · 🐙 [GitHub](https://github.com/surya-prakash-data-analyst)
+📧 suryaprakash1892@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/surya-prakash-data-analyst) · 🐙 [GitHub](https://github.com/surya-prakash-data-analyst) 🌐 [Portfolio](https://suryaprakash18.lovable.app)
 
 ---
 
